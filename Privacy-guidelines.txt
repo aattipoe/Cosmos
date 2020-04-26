@@ -1,0 +1,32 @@
+Privacy Policy 
+==============
+
+The objective of the declaration is to inform the users about the conditions under which their personal data is collected and processed when they use the software and its related services.
+
+GDPR requests that information relating to user rights on their data be communicated to them in a concise, transparent, understandable manner, in simple terms. 
+
+The term " personal data" is used here to refer to any information concerning an identified or identifiable individual (natural person).    
+
+The term "processing" designates any operation or set of operations carried out, or not, using automated processes and applied to personal data or sets of data, such as the collection, the recording, the organization , the structuring, the conservation, the adaptation or modification, the extraction, the consultation, the use, the communication by transmission, the dissemination or any other form of provision, the reconciliation or interconnection, the limitation , the deletion or the destruction of data.  
+
+
+This declaration should provide clear answers to the following questions:
+- What do we mean by personal data processing?           
+- What data is collected 
+- How is the data processed?           
+- For what purpose do we process the data?           
+- Who do we share the data with?           
+- Do we transfer user data abroad?           
+- What are user rights?           
+-- Right of access to the data,         
+-- Right to have them corrected or supplemented,         
+-- Right to erasure and opposition,         
+-- Right to limit processing         
+-- Right to data portability         
+- How long do we keep user data?           
+- How do we secure user data?           
+- Links to other sites, applications, services?         
+- How to contact us ?           
+
+Further information 
+The following link provides access to details of the General Data Protection Regulation (GDPR) : https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN
